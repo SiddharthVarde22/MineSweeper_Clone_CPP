@@ -350,6 +350,9 @@ class GameplayManager
         }
 
         GameResult();
+        cout << "Press any key to Exit" << endl;
+        char x;
+        cin >> x;
     }
 
     ~GameplayManager()
