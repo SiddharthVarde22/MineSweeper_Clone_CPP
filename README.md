@@ -12,6 +12,7 @@ Number of Mines = 10.
 
 ### Gameplay video
 #### [Minesweeper clone Gameplay video](https://youtu.be/I0xzT2C7sj8)
+#### [Minesweeper clone Gameplay video 2](https://youtu.be/W6EwrfIsBCU)
 
 ### Screenshots
 ![MineSweeper1](https://github.com/SiddharthVarde22/MineSweeper_Clone_CPP/assets/118422811/60559b4c-9f4d-4d5b-b6d3-def8852e4319) <br>
